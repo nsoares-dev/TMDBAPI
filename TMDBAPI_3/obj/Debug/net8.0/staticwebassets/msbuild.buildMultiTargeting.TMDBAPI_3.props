@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TMDBAPI_3.props" />
+</Project>
